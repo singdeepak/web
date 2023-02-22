@@ -34,16 +34,16 @@ body{
 
 .container{
     margin: auto;
-    max-width: 1000px;
+    max-width: 1024px;
 }
 
 
 /* ******************header-seciton******************* */
 
 .header-section .title{
-    text-align: center;
-    font-size: 7rem;
     padding: 0rem;
+    font-size: 7rem;
+    text-align: center;
     color: var(--secondary);
     font-weight: normal;
 }
