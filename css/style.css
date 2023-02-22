@@ -7,6 +7,10 @@
     --secondary: #6e6c6c;
 }
 
+
+
+
+
 /* *****************reset-default css***************** */
 
 *{box-sizing: border-box;}
@@ -34,7 +38,7 @@ body{
 
 .container{
     margin: auto;
-    max-width: 1024px;
+    max-width: 967px;
 }
 
 
@@ -92,16 +96,16 @@ body{
     color: #fff;
     font-size: 0.7rem;
     cursor: pointer;
-    transition: all 0.5 ease-in-out;
     text-transform: uppercase;
+    transition: all 0.5 ease-in-out;
     background-color: var(--secondary);
 }
+
 
 
 .search-bar-section form input[type=submit]:hover{
     background-color: var(--primary);
 }
-
 
 
 
@@ -181,7 +185,6 @@ a.linker{
 a.linker:hover{
     text-decoration: underline;
 }
-
 
 
 
